@@ -1,2 +1,2 @@
 # DeployHexa
-ok
+Projet d'une boutique *online*
